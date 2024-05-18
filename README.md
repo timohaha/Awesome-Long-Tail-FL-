@@ -1,1 +1,1 @@
-# Awesome-Long-Tail-FL-
+# Awesome-Long-Tailed-FL
